@@ -1,13 +1,21 @@
-<h1 align="center">Hey there 👋, I'm Yash</h1>
-
+<!-- TOP WAVE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacking+%7C+Network+Security+%7C+SOC+Learner;Building+Real-World+Security+Projects+%F0%9F%94%A5;Always+Learning+%7C+Always+Improving+%E2%9C%A8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yash%20Naik&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacking%20%7C%20SOC%20Learner&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
+<h1 align="center">Hey there 👋, I'm Yash</h1>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacking+%7C+Network+Security+%7C+SOC+Learner;Building+Real-World+Security+Projects+%F0%9F%94%A5;Always+Learning+%7C+Always+Improving+%E2%9C%A8" />
+</p>
+
+<!-- CYBER GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749443-5f3f5b0f-1b2f-4f0c-9c8a-0f6b7e63d41a.gif" width="520"/>
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-naik-312888395" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -83,6 +91,14 @@
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashnaik70&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 📩 **LinkedIn:** https://www.linkedin.com/in/yash-naik-312888395  
@@ -91,3 +107,8 @@
 ---
 
 ⭐ *If you like my projects, consider giving a ⭐ to support my work!*
+
+<!-- BOTTOM WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+</p>
