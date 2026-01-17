@@ -91,13 +91,7 @@
 
 ---
 
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashnaik70&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
