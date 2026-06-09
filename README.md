@@ -32,7 +32,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year **B.Tech CSE Student**
 - 🔐 Passionate about **Cybersecurity, Ethical Hacking, Network Security**
 - 🧠 Learning: **SOC, SIEM, Threat Detection, Malware Analysis**
 - ⚡ Building security projects for **portfolio + job readiness**
@@ -49,8 +48,10 @@
 🔹 **Cybersecurity Focus Areas**
 - Web Security (SQLi, XSS Basics)
 - Port Scanning & Network Recon
+- Log Monitoring
+- Report Analysy 
 - IDS / Threat Detection
-- Incident Response Basics
+- Incident Response 
 
 ---
 
