@@ -88,6 +88,7 @@
 ## 🌐 Connect With Me
 
 📩 **LinkedIn:** https://www.linkedin.com/in/yash-naik-312888395  
+💻 **LeetCode:** https://leetcode.com/u/yashnaik459/ 
 
 
 ---
