@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yash%20Naik&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacking%20%7C%20SOC%20Learner&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Yash</h1>
+<h1 align="center">Hey there 👋, I'm Yash Naik</h1>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -46,6 +46,7 @@
 </p>
 
 🔹 **Cybersecurity Focus Areas**
+- Networking
 - Web Security (SQLi, XSS Basics)
 - Port Scanning & Network Recon
 - Log Monitoring
@@ -83,7 +84,6 @@
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 
